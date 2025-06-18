@@ -1,21 +1,3 @@
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* Definições globais */
-:root {
-  --cor-principal: #0077b6;
-  --cor-secundaria: #90e0ef;
-  --cor-fundo: #f0f4f8;
-  --cor-texto: #333333;
-  --cor-destaque: #ff6f61;
-  --fonte-base: 'Arial', sans-serif;
-  --fonte-titulo: 'Georgia', serif;
-}
-
 body {
   font-family: var(--fonte-base);
   line-height: 1.6;
